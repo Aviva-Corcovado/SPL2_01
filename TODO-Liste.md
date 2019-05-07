@@ -7,6 +7,7 @@
 - [ ] git Übungen
 
 ### Teil 2
-- [ ] python 3.x installieren
+- [x] python 3.x installieren
+- [x] cmder installieren
 - [ ] erste schrie mit python
 - [ ] programmieren mit python
